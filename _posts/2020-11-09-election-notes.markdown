@@ -5,6 +5,8 @@ layout: default
 categories: politics
 ---
 
+Scattered thoughts on the American political landscape in 2020, to be expanded on later.
+
 <b>Democratic Losses in Rural Areas</b>
 
 It's important to sort out what's happening in larger deindustrializing cities from the rural areas and small cities: The latter is a much larger difference and one that increasingly extends beyond white voters.
