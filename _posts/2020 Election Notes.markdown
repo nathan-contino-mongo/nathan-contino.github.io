@@ -25,7 +25,7 @@ Rural Americans will continue to hold a subcultural influence out of proportion 
 
 <b>The Role of Media</b>
 
-Fifty years ago liberating oneself from "mind-destroying media" meant hauling out your television and throwing barbs at the daily newspaper. Today you would have to render youself not just a weirdo in the eyes of others, but a semi-functional hermit. The tools for practicing politics at even the most localized levels are increasing bound up in Big Tech's manipulative revenue models, and the alternatives are atrophying.
+Fifty years ago liberating oneself from "mind-destroying media" meant hauling out your television and throwing barbs at the daily newspaper. Today you would have to render yourself not just a weirdo in the eyes of others, but a semi-functional hermit. The tools for practicing politics at even the most localized levels are increasing bound up in Big Tech's manipulative revenue models, and the alternatives are atrophying.
 
 It's common enough for people to critique this, but rarely in a way that goes far enough. The problems aren't a matter of disinformation or poor moderation, they're inherent to the medium. 
 
